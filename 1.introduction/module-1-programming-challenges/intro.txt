@@ -1,0 +1,35 @@
+// Introduction to Data Structures & Algorithms
+
+Algorithms: Everywhere
+- Writing a software
+- Predicting traffic jam
+- Products recommendation
+- Analyzing genome
+- Even, cooking your food
+- Every branch of CS
+
+But Efficient matters!!!
+- A poorly designed algorithms: may take years...
+- A well-designed algorithms: may do it in seconds...
+
+Impacts in Data Science
+- Google: How did it become the top search engine?
+- Answer: Page Ranking
+- Big Data: Predicting road accidents, Recommending movies to users
+- Machine Learning: Simple linear regression to deep neural networks
+- Exceeding human accuracy in vision and speech recognition
+
+Challenge: Faster experiments with Big Data!!!
+
+Applications in Genomic Science
+- Genome sequencing: Biggest Jigsaw puzzle for mankind
+- Finding mutations: what makes you and I different?
+- Predicting diseases and drugs.
+- Predicting functions of genes and proteins
+
+What you will achieve here...
+- Learn how to design efficient algorithms
+- Lots of problems as programming assignments
+- Implement, test and debug fast algorithms
+- Solve large and difficult problems in seconds
+- Surely become a better programmer
