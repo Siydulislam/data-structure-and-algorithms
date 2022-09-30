@@ -1,13 +1,13 @@
 function sumOfAll(n) {
     let sum = 0;
-    for (let i = 0; i <= n; i++) {
+    for (let i = 0; i <= n; i++) { // (1 + 1 + n + n + n + n + n) => (5n + 2) => Big O(n)
         sum += i;
     }
     return sum;
 }
 
 function sumOfAllWithFormula(n) {
-    return n * (n + 1) / 2;
+    return n * (n + 1) / 2; // (1 + 1 + 1) => Big O(1)
 }
 
 console.log(sumOfAll(10));
